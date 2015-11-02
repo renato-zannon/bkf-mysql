@@ -1,0 +1,9 @@
+[package]
+name = 'bkf-mysql'
+version = '0.0.1'
+authors = ['Renato Zannon <renato@bankfacil.com.br>']
+license = "GPL-3.0"
+
+[dependencies]
+yaml-rust = '^0.2.2'
+clap = "^1.4.6"
