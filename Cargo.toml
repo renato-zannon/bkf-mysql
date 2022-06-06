@@ -5,5 +5,5 @@ authors = ['Renato Zannon <renato@bankfacil.com.br>']
 license = "GPL-3.0"
 
 [dependencies]
-yaml-rust = '^0.2.2'
+yaml-rust = '^0.4.1'
 clap = "^1.4.6"
